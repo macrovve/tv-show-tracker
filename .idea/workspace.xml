@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="516494e0-c4ef-45ff-8b15-d3b57b075ba4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VETnPwAMDlHC7PsUo5dfZ8OouC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jsx.switch.disabled" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.detail-episode.html">
+    <configuration name="detail-episode.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tv-show-tracker/detail-episode.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="detail-overall.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tv-show-tracker/detail-overall.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tv-show-tracker/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="apigClient.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/apigClient.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="render-detail-overall.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/render-detail-overall.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.detail-episode.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.detail-overall.html" />
+        <item itemvalue="Node.js.render-detail-overall.js" />
+        <item itemvalue="Node.js.apigClient.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="516494e0-c4ef-45ff-8b15-d3b57b075ba4" name="Default Changelist" comment="" />
+      <created>1576817420397</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576817420397</updated>
+      <workItem from="1576817422638" duration="85000" />
+      <workItem from="1576817514088" duration="61628000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1899" height="274" key="GridCell.Tab.0.bottom" timestamp="1576955187951">
+      <screen x="0" y="23" width="1920" height="1015" />
+    </state>
+    <state width="1899" height="274" key="GridCell.Tab.0.bottom/-1440.203.1440.877/0.23.1920.1015@0.23.1920.1015" timestamp="1576955187951" />
+    <state width="1899" height="274" key="GridCell.Tab.0.center" timestamp="1576955187947">
+      <screen x="0" y="23" width="1920" height="1015" />
+    </state>
+    <state width="1899" height="274" key="GridCell.Tab.0.center/-1440.203.1440.877/0.23.1920.1015@0.23.1920.1015" timestamp="1576955187947" />
+    <state width="1899" height="274" key="GridCell.Tab.0.left" timestamp="1576955187945">
+      <screen x="0" y="23" width="1920" height="1015" />
+    </state>
+    <state width="1899" height="274" key="GridCell.Tab.0.left/-1440.203.1440.877/0.23.1920.1015@0.23.1920.1015" timestamp="1576955187945" />
+    <state width="1899" height="274" key="GridCell.Tab.0.right" timestamp="1576955187949">
+      <screen x="0" y="23" width="1920" height="1015" />
+    </state>
+    <state width="1899" height="274" key="GridCell.Tab.0.right/-1440.203.1440.877/0.23.1920.1015@0.23.1920.1015" timestamp="1576955187949" />
+    <state width="1899" height="340" key="GridCell.Tab.1.bottom" timestamp="1576891869286">
+      <screen x="0" y="23" width="1920" height="1015" />
+    </state>
+    <state width="1899" height="340" key="GridCell.Tab.1.bottom/-1440.203.1440.877/0.23.1920.1015@0.23.1920.1015" timestamp="1576891869286" />
+    <state width="1899" height="340" key="GridCell.Tab.1.center" timestamp="1576891869286">
+      <screen x="0" y="23" width="1920" height="1015" />
+    </state>
+    <state width="1899" height="340" key="GridCell.Tab.1.center/-1440.203.1440.877/0.23.1920.1015@0.23.1920.1015" timestamp="1576891869286" />
+    <state width="1899" height="340" key="GridCell.Tab.1.left" timestamp="1576891869285">
+      <screen x="0" y="23" width="1920" height="1015" />
+    </state>
+    <state width="1899" height="340" key="GridCell.Tab.1.left/-1440.203.1440.877/0.23.1920.1015@0.23.1920.1015" timestamp="1576891869285" />
+    <state width="1899" height="340" key="GridCell.Tab.1.right" timestamp="1576891869286">
+      <screen x="0" y="23" width="1920" height="1015" />
+    </state>
+    <state width="1899" height="340" key="GridCell.Tab.1.right/-1440.203.1440.877/0.23.1920.1015@0.23.1920.1015" timestamp="1576891869286" />
+    <state width="1899" height="340" key="GridCell.Tab.2.bottom" timestamp="1576891869287">
+      <screen x="0" y="23" width="1920" height="1015" />
+    </state>
+    <state width="1899" height="340" key="GridCell.Tab.2.bottom/-1440.203.1440.877/0.23.1920.1015@0.23.1920.1015" timestamp="1576891869287" />
+    <state width="1899" height="340" key="GridCell.Tab.2.center" timestamp="1576891869287">
+      <screen x="0" y="23" width="1920" height="1015" />
+    </state>
+    <state width="1899" height="340" key="GridCell.Tab.2.center/-1440.203.1440.877/0.23.1920.1015@0.23.1920.1015" timestamp="1576891869287" />
+    <state width="1899" height="340" key="GridCell.Tab.2.left" timestamp="1576891869287">
+      <screen x="0" y="23" width="1920" height="1015" />
+    </state>
+    <state width="1899" height="340" key="GridCell.Tab.2.left/-1440.203.1440.877/0.23.1920.1015@0.23.1920.1015" timestamp="1576891869287" />
+    <state width="1899" height="340" key="GridCell.Tab.2.right" timestamp="1576891869287">
+      <screen x="0" y="23" width="1920" height="1015" />
+    </state>
+    <state width="1899" height="340" key="GridCell.Tab.2.right/-1440.203.1440.877/0.23.1920.1015@0.23.1920.1015" timestamp="1576891869287" />
+    <state width="1899" height="340" key="GridCell.Tab.3.bottom" timestamp="1576891869288">
+      <screen x="0" y="23" width="1920" height="1015" />
+    </state>
+    <state width="1899" height="340" key="GridCell.Tab.3.bottom/-1440.203.1440.877/0.23.1920.1015@0.23.1920.1015" timestamp="1576891869288" />
+    <state width="1899" height="340" key="GridCell.Tab.3.center" timestamp="1576891869288">
+      <screen x="0" y="23" width="1920" height="1015" />
+    </state>
+    <state width="1899" height="340" key="GridCell.Tab.3.center/-1440.203.1440.877/0.23.1920.1015@0.23.1920.1015" timestamp="1576891869288" />
+    <state width="1899" height="340" key="GridCell.Tab.3.left" timestamp="1576891869288">
+      <screen x="0" y="23" width="1920" height="1015" />
+    </state>
+    <state width="1899" height="340" key="GridCell.Tab.3.left/-1440.203.1440.877/0.23.1920.1015@0.23.1920.1015" timestamp="1576891869288" />
+    <state width="1899" height="340" key="GridCell.Tab.3.right" timestamp="1576891869288">
+      <screen x="0" y="23" width="1920" height="1015" />
+    </state>
+    <state width="1899" height="340" key="GridCell.Tab.3.right/-1440.203.1440.877/0.23.1920.1015@0.23.1920.1015" timestamp="1576891869288" />
+    <state x="469" y="169" key="SettingsEditor" timestamp="1576817556129">
+      <screen x="0" y="23" width="1920" height="1015" />
+    </state>
+    <state x="469" y="169" key="SettingsEditor/-1440.203.1440.877/0.23.1920.1015@0.23.1920.1015" timestamp="1576817556129" />
+    <state x="617" y="154" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1576832689259">
+      <screen x="0" y="23" width="1920" height="1015" />
+    </state>
+    <state x="617" y="154" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1440.203.1440.877/0.23.1920.1015@0.23.1920.1015" timestamp="1576832689259" />
+    <state x="625" y="247" width="670" height="676" key="search.everywhere.popup" timestamp="1576907921162">
+      <screen x="0" y="23" width="1920" height="1015" />
+    </state>
+    <state x="625" y="247" width="670" height="676" key="search.everywhere.popup/-1440.203.1440.877/0.23.1920.1015@0.23.1920.1015" timestamp="1576907921162" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/apigClient.js</url>
+          <line>942</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
